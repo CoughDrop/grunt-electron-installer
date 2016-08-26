@@ -20,6 +20,7 @@
     <file src="*.lib" target="lib\net45" />
     <file src="*.pak" target="lib\net45" />
     <file src="*.ico" target="lib\net45" />
+    <file src="*.png" target="lib\net45" />
     <file src="Update.exe" target="lib\net45\squirrel.exe" />
     <file src="icudtl.dat" target="lib\net45\icudtl.dat" />
     <file src="LICENSE" target="lib\net45\LICENSE" />
